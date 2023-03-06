@@ -3,8 +3,6 @@ function calc() {
   let secondNum = Number(document.getElementById("num2").value);
 
   document.getElementById("sum").value = firstNum + secondNum;
-  debugger;
 
   let result = document.getElementById("heading");
-  result.textContent = "Nice";
 }
