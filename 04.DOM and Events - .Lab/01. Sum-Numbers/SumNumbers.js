@@ -4,5 +4,5 @@ function calc() {
 
   document.getElementById("sum").value = firstNum + secondNum;
 
-  let result = document.getElementById("heading");
+
 }
